@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+.vscode
+./hw7/tsne/tsne_imgs/
+./hw7/tsne/tsne_perplexity/
+./hw7/tsne/symmetric_sne_imgs/
+./hw7/tsne/symmetric_sne_perplexity/
